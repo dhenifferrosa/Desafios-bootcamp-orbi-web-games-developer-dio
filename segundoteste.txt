@@ -1,4 +1,1 @@
-primeira linha
-segunda linha
-terceira linha
-quarta linha
+Teste stage e commit
